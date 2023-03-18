@@ -4,7 +4,7 @@ El resumen del proyecto o los pasos explicados serian los siguientes:
 (que habria que hacer)
 
 1.- Preparacion de datos:
--Cargar el conjunto de datos en un DataFrame de Pandas.
+-Cargar el conjunto de datos en un DataFrame de Pandas.\n
 -Eliminar cualquier columna que no sea relevante para el problema o que tenga muchos valores nulos.
 -Completar los valores nulos en las columnas restantes con una estrategia apropiada, como el promedio o la mediana.
 -Separar las características del objetivo (el precio en este caso) en diferentes conjuntos de datos.
