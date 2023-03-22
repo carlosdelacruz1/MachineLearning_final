@@ -1,5 +1,7 @@
 # MachineLearning
 
+### El ARCHIVO FINAL ES EL QUE PONE _FINAL-ruben
+
 El resumen del proyecto o los pasos explicados serian los siguientes:
 (que habria que hacer)
 
